@@ -1,0 +1,14 @@
+.wrapper{
+    height:100vh;
+}
+.Login {
+    width: 300px;
+    padding: 20px;
+    height:min-content;
+    border-radius: 5px;
+    color: black;
+    background-color: white;
+}
+.wrapper bg-light d-flex align-items-center justify-content-center w-100 {
+    background-image: url("new.jpg");
+}
